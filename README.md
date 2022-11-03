@@ -1,7 +1,7 @@
-Nama    : Ayu Putri Dewi Fitriyani
+Nama : Ayu Putri Dewi Fitriyani
 
-NPM     : 2106654845
+NPM : 2106654845
 
-Kelas   : PBP E
+Kelas : PBP E
 
-Hobi    : Studyyyyyy!!!
+Hobi : Studyyyyyy!!
